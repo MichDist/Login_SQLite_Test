@@ -1,0 +1,8 @@
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\bin\Debug\netcoreapp2.2\Login_SQLite_Test.deps.json
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\bin\Debug\netcoreapp2.2\Login_SQLite_Test.runtimeconfig.json
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\bin\Debug\netcoreapp2.2\Login_SQLite_Test.runtimeconfig.dev.json
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\bin\Debug\netcoreapp2.2\Login_SQLite_Test.dll
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\obj\Debug\netcoreapp2.2\Login_SQLite_Test.csprojAssemblyReference.cache
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\obj\Debug\netcoreapp2.2\Login_SQLite_Test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\obj\Debug\netcoreapp2.2\Login_SQLite_Test.AssemblyInfoInputs.cache
+C:\Users\Michael Distler\source\repos\Login_SQLite_Test\Login_SQLite_Test\obj\Debug\netcoreapp2.2\Login_SQLite_Test.AssemblyInfo.cs

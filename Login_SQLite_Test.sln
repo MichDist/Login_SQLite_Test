@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_SQLite_Test", "Login_SQLite_Test\Login_SQLite_Test.csproj", "{B4ED37F4-B1AE-4982-8E1C-499C30EF0497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ED37F4-B1AE-4982-8E1C-499C30EF0497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ED37F4-B1AE-4982-8E1C-499C30EF0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ED37F4-B1AE-4982-8E1C-499C30EF0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ED37F4-B1AE-4982-8E1C-499C30EF0497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD114D0A-E0A6-40E0-9E29-747B1FAA0A29}
+	EndGlobalSection
+EndGlobal
